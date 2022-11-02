@@ -24,6 +24,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <?php hello_elementor_body_open(); ?>
 
+<div id="preloader"></div>
+<a id="button" class="scroll-up"><i class="fas fa-chevron-up"></i></a>
+
 <a class="skip-link screen-reader-text" href="#content">
 	<?php esc_html_e( 'Skip to content', 'hello-elementor' ); ?></a>
 

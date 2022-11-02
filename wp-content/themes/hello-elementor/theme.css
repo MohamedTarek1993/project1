@@ -471,7 +471,7 @@ footer .site-navigation ul.menu a {
     .site-navigation-dropdown ul.menu li.elementor-active > ul > li {
       transform: scaleY(1);
       max-height: 100vh; }
-
+     
 @media (max-width: 576px) {
   .site-header.menu-dropdown-mobile:not(.menu-layout-dropdown) .site-navigation {
     display: none !important; } }
